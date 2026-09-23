@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Lucas Gabriel Garcia, tenho 23 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na xxx. Sou apaixonado por tudo que envolva tecnologia.
+Me chamo Lucas Gabriel Garcia, tenho 24 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na xxx. Sou apaixonado por tudo que envolva tecnologia.
 
 
 ---
