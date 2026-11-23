@@ -1,41 +1,13 @@
-##  👨‍💻 Lucas Garcia
+# Olá, eu sou o Lucas 👋
 
-**`Desenvolvedor FullStack`**
+Desenvolvedor full-stack em formação, cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul Virtual.
 
-Me chamo Lucas Gabriel Garcia, tenho 24 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul. Sou apaixonado por tudo que envolva tecnologia.
+Construo aplicações web com TypeScript, Next.js, React e Supabase, do banco de dados ao deploy.
 
+## 🛠️ Tecnologias
+TypeScript · JavaScript · React · Next.js · Node.js · Supabase · PostgreSQL · Tailwind CSS · Git · Python · Java
 
----
+## 📫 Contato
+[LinkedIn](https://www.linkedin.com/in/ggarcia-dev/)
 
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 
+Em busca da minha primeira oportunidade como estagiário ou desenvolvedor júnior.
