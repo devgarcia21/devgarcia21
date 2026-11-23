@@ -6,7 +6,7 @@ Construo aplicações web com TypeScript, Next.js, React e Supabase, do banco de
 
 ## 🛠️ Tecnologias
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,html,css,tailwind,supabase,postgres,git,github,python,java,cs,cpp" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,html,css,tailwind,supabase,postgres,git,python,java,cs,cpp" />
 
 ## 📫 Contato
 [LinkedIn](https://www.linkedin.com/in/ggarcia-dev/)
