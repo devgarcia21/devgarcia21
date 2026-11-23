@@ -5,7 +5,8 @@ Desenvolvedor full-stack em formação, cursando Análise e Desenvolvimento de S
 Construo aplicações web com TypeScript, Next.js, React e Supabase, do banco de dados ao deploy.
 
 ## 🛠️ Tecnologias
-TypeScript · JavaScript · React · Next.js · Node.js · Supabase · PostgreSQL · Tailwind CSS · Git · Python · Java
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,html,css,tailwind,supabase,postgres,git,github,python,java,cs,cpp" />
 
 ## 📫 Contato
 [LinkedIn](https://www.linkedin.com/in/ggarcia-dev/)
